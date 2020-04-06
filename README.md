@@ -1,5 +1,7 @@
 # rn-use-interval
 
+`Use hooks to make a interval`
+
 # Installation
 
 `npm i rn-use-interval --save`
