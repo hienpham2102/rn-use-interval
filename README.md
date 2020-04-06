@@ -1,6 +1,6 @@
 # rn-use-interval
 
-`Use hooks to make a interval`
+Use hooks to make a interval
 
 # Installation
 
