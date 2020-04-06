@@ -1,7 +1,6 @@
 {
-  "name": "rn_use_interval",
-  "version": "0.0.1",
-  "private": true,
+  "name": "rn-use-interval",
+  "version": "0.0.3",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -25,5 +24,20 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "Use Hook to make an interval",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hienpham2102/rn-use-interval.git"
+  },
+  "keywords": [
+    "useInterval"
+  ],
+  "author": "HienPT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hienpham2102/rn-use-interval/issues"
+  },
+  "homepage": "https://github.com/hienpham2102/rn-use-interval#readme"
 }
